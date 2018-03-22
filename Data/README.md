@@ -1,0 +1,1 @@
+To generate a TFRecord from the Downloaded FDDB files, run GenerateTFRecord.py in this directory.
